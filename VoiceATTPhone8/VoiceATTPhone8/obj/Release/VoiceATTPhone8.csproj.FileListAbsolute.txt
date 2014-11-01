@@ -1,0 +1,9 @@
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Release\VoiceATTPhone8.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Release\VoiceATTPhone8.pdb
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Release\ATT.WP8.Controls.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Release\ATT.WP8.SDK.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Release\VoiceTextBox.g.cs
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Release\VoiceRecordButton.g.cs
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Release\VoiceATTPhone8.g.resources
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Release\VoiceATTPhone8.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Release\VoiceATTPhone8.pdb

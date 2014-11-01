@@ -1,0 +1,10 @@
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\VoiceATTPhone8.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\VoiceATTPhone8.pdb
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\ATT.WP8.Controls.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\ATT.WP8.SDK.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Debug\VoiceTextBox.g.cs
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Debug\VoiceRecordButton.g.cs
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Debug\VoiceATTPhone8.g.resources
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Debug\VoiceATTPhone8.dll
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Debug\VoiceATTPhone8.pdb
+c:\Projects\ATandT\VoiceATT\VoiceATTPhone8\VoiceATTPhone8\obj\Debug\VoiceATTPhone8.csprojResolveAssemblyReference.cache

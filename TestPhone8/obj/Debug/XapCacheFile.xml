@@ -1,0 +1,15 @@
+﻿<xapCache source="C:\Projects\ATandT_Voice\TestPhone8\Bin\Debug\TestPhone8_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/31/2014 10:42:08 PM">
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\obj\Debug\TestPhone8.dll" archivePath="TestPhone8.dll" lastWriteTime="10/31/2014 10:42:08 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/31/2014 5:10:46 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10/31/2014 5:07:29 PM" />
+  <file source="C:\Projects\ATandT_Voice\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\VoiceATTPhone8.dll" archivePath="VoiceATTPhone8.dll" lastWriteTime="10/31/2014 10:34:10 PM" />
+  <file source="C:\Projects\ATandT_Voice\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\ATT.WP8.Controls.dll" archivePath="ATT.WP8.Controls.dll" lastWriteTime="10/30/2014 10:36:28 PM" />
+  <file source="C:\Projects\ATandT_Voice\VoiceATTPhone8\VoiceATTPhone8\Bin\Debug\ATT.WP8.SDK.dll" archivePath="ATT.WP8.SDK.dll" lastWriteTime="10/31/2014 3:00:58 PM" />
+  <file source="C:\Projects\ATandT_Voice\TestPhone8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/31/2014 9:54:15 PM" />
+</xapCache>
